@@ -4,3 +4,4 @@ shopping list
 3. hoodie
 4. lower
 5. jacket
+6. t-shirt
